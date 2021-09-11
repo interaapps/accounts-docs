@@ -57,7 +57,7 @@ components:
           format: date
           example: '1997-10-31'
           description: Date
-        favourite_color:
+        favorite_color:
           type: string
           description: Favourite color (7 Chars long)
           format: color
